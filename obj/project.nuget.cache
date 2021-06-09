@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9nJw8eabOnRt0geiiVGPawjJwX0RUO1kUl+WWFoch0TheYt4FNKLGxz9CrZwXT50f8gkXqXJBoIWM+W1hY9/0Q==",
+  "success": true,
+  "projectFilePath": "C:\\laba5\\laba5\\laba5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kavtunchik\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kavtunchik\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512",
+    "C:\\Users\\kavtunchik\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\kavtunchik\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\kavtunchik\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
